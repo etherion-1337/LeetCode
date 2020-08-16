@@ -2,15 +2,13 @@ from typing import List
 
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
-        ans = []
-        prev_ans = 0
-        
-        for num in nums:
-            curr_ans = num + prev_ans
-            ans.append(curr_ans)
-            prev_ans = curr_ans
-            
-        return ans
+        if nums is None or len(nums) == 0:
+            return None
+        else:
+            for i in range(1, len(nums)):
+                nums[i] += nums[i-1]
+        return nums
+
 
 if __name__ == "__main__":
     soln = Solution()
