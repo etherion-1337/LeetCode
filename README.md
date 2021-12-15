@@ -14,4 +14,4 @@
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1512_number_of_good_pairs/solution_fast.py)|no|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1672_richest_customer_wealth/solution.py)|no|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1920_build_array_from_permutation/solution.py)|no|
-
+|1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1929_concatenation_of_array/solution.py)|no|
