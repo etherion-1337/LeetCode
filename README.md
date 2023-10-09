@@ -1,6 +1,8 @@
 # Introduction
  This Repo contains the questions, solutions and notes for my LC Daily Grind.
 
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/xav_etherion?ext=heatmap)
+
 # LeetCode Lookup Table
 
 | ID | Title | Difficulty | Type | Note | Python | C++ |
