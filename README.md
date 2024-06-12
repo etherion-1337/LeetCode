@@ -1,7 +1,7 @@
 # Introduction
  This Repo contains the questions, solutions and notes for my LC Daily Grind.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/xav_etherion?theme=dark&font=Didact%20Gothic)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Didact%20Gothic&ext=heatmap)
 
 # LeetCode Lookup Table
 
