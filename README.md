@@ -1,7 +1,7 @@
 # Introduction
  This Repo contains the questions, solutions and notes for my LC Daily Grind.
 
- ![Leetcode Stats](https://leetcard.jacoblin.cool/xav_etherion?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/xav_etherion?theme=dark&font=Didact%20Gothic)
 
 # LeetCode Lookup Table
 
@@ -30,6 +30,3 @@
 |2160|[Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/2160_minimum_sum_of_four_digit_number_after_splitting_digits/solution.py)|no|
 |2879|[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/2879_display_the_first_three_rows/solution.py)|no|
 |2881|[Create a New Column](https://leetcode.com/problems/create-a-new-column/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/2881_create_a_new_column/solution.py)|no|
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/xav_etherion?theme=dark&font=Didact%20Gothic)
