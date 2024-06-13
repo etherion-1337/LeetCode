@@ -7,6 +7,7 @@
 
 | ID | Title | Difficulty | Type | Note | Python | C++ |
 |----|:--|:--:|:--:|:--:|:--:|:--:|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/217_contains_duplicate/solution.py)|no|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1108_defanging_an_ip_address/solution.py)|no|
 |1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1119_remove_vowels_from_a_string/solution.py)|no|
