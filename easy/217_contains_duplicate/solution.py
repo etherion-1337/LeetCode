@@ -7,7 +7,7 @@ class Solution:
         else:
             return True
         
-class GoldSolution:
+class NeetSolution:
     def hasDuplicate(self, nums: List[int]) -> bool:
         hashset = set()
 
