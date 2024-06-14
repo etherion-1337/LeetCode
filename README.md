@@ -8,6 +8,7 @@
 | ID | Title | Difficulty | Type | Note | Python | C++ |
 |----|:--|:--:|:--:|:--:|:--:|:--:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1_two_sum/solution.py)|no|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/49_group_anagrams/solution.py)|no|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/217_contains_duplicate/solution.py)|no|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/242_valid_anagram/solution.py)|no|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
