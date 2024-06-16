@@ -1,5 +1,5 @@
 # Introduction
- This Repo contains the questions, solutions and notes for my LC Daily Grind.
+ This Repo contains the questions, solutions and notes for my LC journey.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/xav_1337?theme=dark&font=Didact%20Gothic&ext=heatmap)
 
@@ -11,6 +11,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/49_group_anagrams/solution.py)|no|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/217_contains_duplicate/solution.py)|no|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/242_valid_anagram/solution.py)|no|
+|271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/271_encode_decode_strings/solution.py)|no|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/347_top_k_frequent_elements/solution.py)|no|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1108_defanging_an_ip_address/solution.py)|no|
