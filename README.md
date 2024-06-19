@@ -10,7 +10,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1_two_sum/solution.py)|no|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/36_valid_sudoku/solution.py)|no|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/49_group_anagrams/solution.py)|no|
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/125_valid_palindrome/solution_slow.py)|no|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/125_valid_palindrome/solution.py)|no|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/128_longest_consecutive_sequence/solution.py)|no|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/217_contains_duplicate/solution.py)|no|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/238_product_of_array_except_self/solution.py)|no|
