@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution(object):
     def maxProfit(self, prices):
         """
@@ -41,3 +43,14 @@ class Solution(object):
             r += 1
 
         return max_profit
+    
+class NeetSolution:
+    def maxProfit(self, prices: List[int]) -> int:
+        res = 0
+        
+        lowest = prices[0]
+        for price in prices:
+            if price < lowest:
+                lowest = price
+            res = max(res, price - lowest)
+        return res
