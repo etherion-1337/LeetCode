@@ -47,7 +47,7 @@ class NeetSolution1(object):
         :rtype: int
 
         Instead of going through all unique char, use a dict to keep track all the char count in the window.
-        instead of count above, use max(count.values()) to get the max count of the char in the window.
+        instead of count above during each unique char's iteration, use max(count.values()) to get the max count of the char in the window.
 
         time complexity: O(26n) because we need to check the count dict for max value in each iteration.
         """
@@ -66,7 +66,7 @@ class NeetSolution1(object):
 
         return ans
     
-class NeetSolution22:
+class NeetSolution2:
     def characterReplacement(self, s: str, k: int) -> int:
         """
         Use maxf to keep track of the max frequency of the char in the window.
