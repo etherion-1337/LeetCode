@@ -60,13 +60,15 @@ class NeetSolution:
         l = r = 0
 
         while r < len(nums):
+            # pop smaller values from q
             while q and nums[q[-1]] < nums[r]:
                 q.pop()
             q.append(r)
-
+            # remove left value from q if the window slides over it
             if l > q[0]:
                 q.popleft()
-
+            # this if is an edge case handling because we start r from 0
+            # need to make sure the window is of size k before we start adding to the output
             if (r + 1) >= k:
                 output.append(nums[q[0]])
                 l += 1
