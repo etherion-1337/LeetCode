@@ -1,4 +1,7 @@
 class MinStack(object):
+    """
+    This class's getMin() method is O(n) time complexity which is not optimal.
+    """
 
     def __init__(self):
         self.stack = []
