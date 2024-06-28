@@ -30,6 +30,7 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         using deque as a monotonic decreasing queue
+        using deque to store
         time complexity = O(n) where n is the length of nums
 
         for every new element added to the window, we remove all elements that are smaller than the new element, thus queue[0] is always the maximum element in the window
