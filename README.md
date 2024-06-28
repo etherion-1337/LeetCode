@@ -11,6 +11,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/3_longest_substring_without_repeating_char/solution.py)|no|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/11_container_with_most_water/solution.py)|no|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/15_three_sum/solution.py)|no|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/20_valid_parentheses/solution.py)|no|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/36_valid_sudoku/solution.py)|no|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/42_trapping_rain_water/solution.py)|no|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/49_group_anagrams/solution.py)|no|
