@@ -3,7 +3,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/xav_1337?theme=dark&font=Didact%20Gothic&ext=heatmap)
 
-# LeetCode Lookup Table
+# Solution
 
 | ID | Title | Difficulty | Type | Note | Python | C++ |
 |----|:--|:--:|:--:|:--:|:--:|:--:|
