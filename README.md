@@ -19,6 +19,7 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/121_best_time_to_buy_and_sell_stock/solution.py)|no|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/125_valid_palindrome/solution.py)|no|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/128_longest_consecutive_sequence/solution.py)|no|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/150_evaluate_reverse_polish_notation/solution.py)|no|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/155_min_stack/solution.py)|no|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/167_two_sum_ii/solution.py)|no|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/217_contains_duplicate/solution.py)|no|
