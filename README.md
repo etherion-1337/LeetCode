@@ -5,7 +5,7 @@
 
 # Solution
 
-| ID | Title | Difficulty | Type | Note | Python | C++ |
+| ID | Title | Difficulty | Type | Note | Python3 | C++ |
 |----|:--|:--:|:--:|:--:|:--:|:--:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1_two_sum/solution.py)|no|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/3_longest_substring_without_repeating_char/solution.py)|no|
