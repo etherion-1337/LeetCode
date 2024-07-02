@@ -32,6 +32,7 @@
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/347_top_k_frequent_elements/solution.py)|no|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/424_longest_repeating_character_replacement/solution.py)|no|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/567_permutation_in_string/solution.py)|no|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/704_binary_search/solution.py)|no|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/739_daily_temperatures/solution.py)|no|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/853_car_fleet/solution.py)|no|
