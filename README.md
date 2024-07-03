@@ -37,6 +37,7 @@
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/739_daily_temperatures/solution.py)|no|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/853_car_fleet/solution.py)|no|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/875_koko_eating_bananas/solution.py)|no|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1108_defanging_an_ip_address/solution.py)|no|
 |1119|[Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1119_remove_vowels_from_a_string/solution.py)|no|
 |1165|[Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1165_single_row_keyboard/solution.py)|no|
