@@ -56,14 +56,21 @@ class Solution:
 
         return newHead
     
+def print_list(head):
+    while head:
+        print(head.val, end=' -> ')
+        head = head.next
+    print('None')
+    
 
 if __name__ == '__main__':
     # test case
-    # head = ListNode(1)
-    # head.next = ListNode(2)
-    # head.next.next = ListNode(3)
-    # head.next.next.next = ListNode(4)
-    # head.next.next.next.next = ListNode(5)
-    l1 = ListNode(1,ListNode(2, ListNode(3, None)))
+    head = ListNode(1)
+    head.next = ListNode(2)
+    head.next.next = ListNode(3)
+    head.next.next.next = ListNode(4)
+    head.next.next.next.next = ListNode(5)
+    # l1 = ListNode(1,ListNode(2, ListNode(3, None)))
     s = Solution()
-    print(s.reverseList(l1))  # expect 5 -> 4 -> 3 -> 2 -> 1 -> None
+    rev_list = s.reverseList(head)
+    print_list(rev_list)  # expect 5 -> 4 -> 3 -> 2 -> 1 -> None
