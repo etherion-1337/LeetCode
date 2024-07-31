@@ -13,6 +13,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/11_container_with_most_water/solution.py)|no|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/15_three_sum/solution.py)|no|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/20_valid_parentheses/solution.py)|no|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/21_merge_two_sorted_lists/solution.py)|no|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/22_generate_parentheses/solution.py)|no|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/33_search_in_rotated_sorted_array/solution.py)|no|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/36_valid_sudoku/solution.py)|no|
