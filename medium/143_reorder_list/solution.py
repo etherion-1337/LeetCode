@@ -36,6 +36,7 @@ class Solution:
                 l += 1
                 left = False
                 right = True
+                # cut the link between the node and the next node to avoid cycle
                 tail = tail.next
                 tail.next = None
             else:
@@ -43,6 +44,7 @@ class Solution:
                 r -= 1
                 left = True
                 right = False
+                # cut the link between the node and the next node to avoid cycle
                 tail = tail.next
                 tail.next = None
         # dummy.next is the final link list        
