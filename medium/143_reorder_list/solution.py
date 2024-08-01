@@ -49,3 +49,46 @@ class Solution:
                 tail.next = None
         # dummy.next is the final link list        
         head = dummy.next
+
+class NeetSolution:
+    def reorderList(self, head: Optional[ListNode]) -> None:
+        """
+        Do not return anything, modify head in-place instead.
+        time complexity: O(n)
+        space complexity: O(1)
+        """
+        # determine first and second segment of linked list
+        # slow.next will be the beginning of 2nd segment
+        slow, fast = head, head.next
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
+
+        # reverse 2nd segment
+        second = slow.next
+        # split the linked list to 2 segment
+        slow.next = None
+        # previous nodes default
+        prev = None
+        # iterate the (potential) shorter segment
+        while second:
+            # before break the link, cache first
+            tmp = second.next
+            # now point to prev
+            second.next = prev
+            # move prev to curr (i.e. second)
+            prev = second
+            # move curr (i.e. second) to (original) next
+            second = tmp
+
+        # merge
+        # original second will be None
+        # but prev will be the last node of the original 2nd seg, now becomes the new head of the reversed linked list
+        first, second = head, prev
+        while second:
+            # cache before breaking the next to point to new nodes
+            tmp1, tmp2 = first.next, second.next
+            first.next = second
+            second.next = tmp1
+            first = tmp1
+            second = tmp2
