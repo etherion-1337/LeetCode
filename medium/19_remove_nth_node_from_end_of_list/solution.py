@@ -37,3 +37,31 @@ class Solution:
             tail.next = None
 
         return head
+    
+class NeetSolution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        """
+        time complexity: O(n)
+        space complexity: O(1)
+        """
+        # create a dummy node before head
+        dummy = ListNode(0, head)
+        # left and right pointer
+        # the space between them is n + 1 
+        # such that with r reaches the end, l is at the node to be broken
+        l = dummy
+        r = head
+        # find out the starting point of r
+        while n > 0 and r:
+            r = r.next
+            n -= 1
+        # shift both l and r
+        # when r reaches the end
+        # l is at the right node
+        while r:
+            l = l.next
+            r = r.next
+        # reroute linked list (l) to drop the specific node
+        l.next = l.next.next
+        # ignore the first dummy node we added
+        return dummy.next
