@@ -47,4 +47,35 @@ class Solution:
                 tmp = tmp.next
 
         return head
-        
+
+class NeetSolution:
+    """
+    time complexity: O(n)
+    space complexity: O(n)
+    """
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        dummy = ListNode()
+        curr = dummy
+
+        # if carry is 1, then the next digit should be added 1
+        carry = 0
+        # carry is added to while condition is to handle the edge case when both list is none but carry is 1
+        # so extra noded need to be added
+        while l1 or l2 or carry:
+            val_1 = l1.val if l1 else 0
+            val_2 = l2.val if l2 else 0
+            # new digit
+            val = val_1 + val_2 + carry
+            if val >= 10:
+                carry = 1
+                val = val % 10
+            else:
+                carry = 0
+
+            curr.next = ListNode(val)
+            # update the pointers
+            curr = curr.next
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
+
+        return dummy.next        
