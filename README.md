@@ -8,6 +8,7 @@
 | ID | Title | Difficulty | Type | Note | Python3 | C++ |
 |----|:--|:--:|:--:|:--:|:--:|:--:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1_two_sum/solution.py)|no|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/2_add_two_numbers/solution.py)|no|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/3_longest_substring_without_repeating_char/solution.py)|no|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/4_median_of_two_sorted_arrays/solution.py)|no|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/11_container_with_most_water/solution.py)|no|
