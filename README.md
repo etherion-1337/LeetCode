@@ -30,6 +30,7 @@
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/138_copy_list_with_random_pointer/solution.py)|no|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/141_linked_list_cycle/solution.py)|no|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/143_reorder_list/solution.py)|no|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/146_lru_cache/solution.py)|no|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/150_evaluate_reverse_polish_notation/solution.py)|no|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/153_find_minimum_in_rotated_sorted_array/solution.py)|no|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/155_min_stack/solution.py)|no|
