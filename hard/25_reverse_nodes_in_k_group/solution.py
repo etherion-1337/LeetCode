@@ -26,3 +26,48 @@ class Solution:
             dummy = dummy.next
         return head.next
     
+class NeetSolution:
+    def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        """
+        time complexity: O(n)
+        space complexity: O(1)
+        https://www.youtube.com/watch?v=1UOPsfP85V4
+        """
+        # dummy node before head
+        dummy = ListNode(0, head)
+        # the node before the group we would like to reverse
+        groupPrev = dummy
+
+        while True:
+            kth = self.getkth(groupPrev, k)
+            # when we reach the end of ll
+            # not enough node to perform reverse
+            if not kth:
+                break
+            # this node is right after the last node (i.e. kth) of the grp
+            groupNext = kth.next
+            
+            # reverse the group
+            prev, curr = kth.next, groupPrev.next
+            while curr != groupNext:
+                tmp = curr.next
+                curr.next = prev
+                prev = curr
+                curr = tmp
+
+            # reconnect the group with the rest of the ll    
+            tmp = groupPrev.next
+            groupPrev.next = kth
+            groupPrev = tmp
+
+        return dummy.next
+
+    def getkth(self, curr, k):
+        """
+        given a node, find the node k away, i.e. kth node
+        if curr == groupPrev, return will be the last node of the group
+        """
+        while curr and k > 0:
+            curr = curr.next
+            k -= 1
+        return curr
