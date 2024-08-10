@@ -26,6 +26,7 @@
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/74_search_a_2d_matrix/solution.py)|no|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/76_minimum_window_substring/solution.py)|no|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/84_largest_rectangle_in_histogram/solution.py)|no|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/100_same_tree/solution.py)|no|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/104_maximum_depth_of_binary_tree/solution.py)|no|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/110_balanced_binary_tree/solution.py)|no|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/121_best_time_to_buy_and_sell_stock/solution.py)|no|
