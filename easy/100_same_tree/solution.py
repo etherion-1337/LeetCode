@@ -7,6 +7,9 @@ class TreeNode:
         self.left = left
         self.right = right
 class Solution:
+    """
+    time complexity: O(p + q)
+    """
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
         # if both node is None, then they are the same
         if not p and not q:
