@@ -34,3 +34,27 @@ class Solution:
             
         result = [level[-1] for level in bfs_result]
         return result
+    
+class NeetSolution:
+    """
+    time complexity: O(n)
+    space complexity: O(n)
+    """
+    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        res = []
+        q = deque([root])
+
+        while q:
+            rightSide = None # if root is None, return []
+            qLen = len(q)
+
+            for i in range(qLen):
+                node = q.popleft()
+                if node:
+                    rightSide = node
+                    q.append(node.left)
+                    q.append(node.right)
+            # q is non-empty, but rightSide is could be None
+            if rightSide:
+                res.append(rightSide.val)
+        return res
