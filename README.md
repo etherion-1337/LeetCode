@@ -67,6 +67,7 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/853_car_fleet/solution.py)|no|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/875_koko_eating_bananas/solution.py)|no|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/973_k_closest_points_to_origin/solution.py)|no|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/981_time_based_key_value_store/solution.py)|no|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1046_last_stone_weight/solution.py)|no|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1108_defanging_an_ip_address/solution.py)|no|
