@@ -62,6 +62,7 @@
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/543_diameter_of_binary_tree/solution.py)|no|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/567_permutation_in_string/solution.py)|no|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/572_subtree_of_another_tree/solution.py)|no|
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/621_task_scheduler/solution.py)|no|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/703_kth_largest_element_in_a_stream/solution.py)|no|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/704_binary_search/solution.py)|no|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/739_daily_temperatures/solution.py)|no|
