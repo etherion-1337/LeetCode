@@ -23,3 +23,22 @@ class Solution:
         
         dfs(0)
         return result
+    
+class Solution:
+    def dfs(self, i, nums):
+        if i >= len(nums):
+            self.result.append(self.subsets.copy())
+            return
+        
+        self.subsets.append(nums[i])
+        self.dfs(i+1, nums)
+        self.subsets.pop()
+        self.dfs(i+1, nums)
+
+
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        self.result = []
+        self.subsets = []
+
+        self.dfs(0,nums)
+        return self.result
