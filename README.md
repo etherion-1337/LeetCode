@@ -1,5 +1,5 @@
 # Introduction
- This Repo contains the questions, solutions and notes for my LC journey.
+Here goes the LC grind ...
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/xav_1337?theme=dark&font=Didact%20Gothic&ext=heatmap)
 
