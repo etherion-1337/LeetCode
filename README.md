@@ -29,6 +29,7 @@ Here goes the LC grind ...
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/76_minimum_window_substring/solution.py)|no|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/78_subsets/solution.py)|no|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/84_largest_rectangle_in_histogram/solution.py)|no|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/90_subsets_II/solution.py)|no|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/98_validate_binary_search_tree/solution.py)|no|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/100_same_tree/solution.py)|no|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/102_binary_tree_level_order_traversal/solution.py)|no|
