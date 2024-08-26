@@ -1,6 +1,6 @@
 from typing import List
 
-class Solution:
+class NeetSolution:
     """
     Backtracking with DFS
     at each step, we have 2 choices: include the current element or not
