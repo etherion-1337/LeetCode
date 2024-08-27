@@ -22,6 +22,7 @@ Here goes the LC grind ...
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/33_search_in_rotated_sorted_array/solution.py)|no|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/36_valid_sudoku/solution.py)|no|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/39_combination_sum/solution.py)|no|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/40_combination_sum_II/solution.py)|no|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/42_trapping_rain_water/solution.py)|no|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/46_permutations/solution.py)|no|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/49_group_anagrams/solution.py)|no|
