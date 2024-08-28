@@ -42,6 +42,7 @@ Here goes the LC grind ...
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/124_binary_tree_maximum_path_sum/solution.py)|no|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/125_valid_palindrome/solution.py)|no|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/128_longest_consecutive_sequence/solution.py)|no|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/131_palindrome_partitioning/solution.py)|no|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/138_copy_list_with_random_pointer/solution.py)|no|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/141_linked_list_cycle/solution.py)|no|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/143_reorder_list/solution.py)|no|
