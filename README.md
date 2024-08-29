@@ -1,5 +1,5 @@
 # Introduction
-Here goes the LC grind ...
+Here goes the LC grind ... 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/xav_1337?theme=dark&font=Didact%20Gothic&ext=heatmap)
 
