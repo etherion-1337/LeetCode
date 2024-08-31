@@ -27,6 +27,7 @@ Here goes the LC grind ...
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/42_trapping_rain_water/solution.py)|no|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/46_permutations/solution.py)|no|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/49_group_anagrams/solution.py)|no|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/51_n_queens/solution.py)|no|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/74_search_a_2d_matrix/solution.py)|no|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/76_minimum_window_substring/solution.py)|no|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/78_subsets/solution.py)|no|
