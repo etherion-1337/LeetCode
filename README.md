@@ -71,6 +71,7 @@ Here goes the LC grind ...
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/238_product_of_array_except_self/solution.py)|no|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/239_sliding_window_maximum/solution.py)|no|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/242_valid_anagram/solution.py)|no|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/261_graph_valid_tree/solution.py)|no|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/271_encode_decode_strings/solution.py)|no|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/286_walls_and_gates/solution.py)|no|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/287_find_the_duplicate_number/solution.py)|no|
