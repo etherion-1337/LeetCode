@@ -113,6 +113,7 @@ Here goes the LC grind ...
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1480_running_sum_of_1d_array/solution.py)|no|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1512_number_of_good_pairs/solution_fast.py)|no|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1528_shuffle_string/solution.py)|no|
+|1584|[Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/1584_min_cost_to_connect_all_points/solution.py)|no|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1603_design_parking_system/solution.py)|no|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1672_richest_customer_wealth/solution.py)|no|
 |1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/1720_decode_xored_array/solution.py)|no|
