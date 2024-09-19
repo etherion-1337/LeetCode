@@ -93,6 +93,7 @@ Here goes the LC grind ...
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/703_kth_largest_element_in_a_stream/solution.py)|no|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/704_binary_search/solution.py)|no|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/739_daily_temperatures/solution.py)|no|
+|743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/743_network_delay_time/solution.py)|no|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/853_car_fleet/solution.py)|no|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/875_koko_eating_bananas/solution.py)|no|
