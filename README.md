@@ -1,5 +1,5 @@
 # Introduction
-One LeetCode a day keeps dementia away.
+One LeetCode a day keeps the dementia away.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/xav_1337?theme=dark&font=Didact%20Gothic&ext=heatmap)
 
