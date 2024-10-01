@@ -52,7 +52,7 @@ One LeetCode a day keeps the dementia away.
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/131_palindrome_partitioning/solution.py)|no|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/133_clone_graph/solution.py)|no|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/138_copy_list_with_random_pointer/solution.py)|no|
-|139|[Word Break](https://leetcode.com/problems/word-break/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/139_word_break/solution.py)|no|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|Medium|Algorithm|1D DP|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/139_word_break/solution.py)|no|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/141_linked_list_cycle/solution.py)|no|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/143_reorder_list/solution.py)|no|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/146_lru_cache/solution.py)|no|
