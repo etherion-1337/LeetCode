@@ -2,6 +2,9 @@ class Solution:
     """
     2D DP bottom-up approach
 
+    time complexity: O(m*n), where m is the length of text1 and n is the length of text2
+    space complexity: O(m*n), where m is the length of text1 and n is the length of text2
+
     we need a dp array of size (len(text1)+1) x (len(text2)+1), 
     the extra row and column at the most right and bottom are filled with 0, and serve as the out-of-boundary condition.
     at each cell, we cache the length of the longest common subsequence of the two substrings that start from the current cell (i, j) to the end of the two strings.
