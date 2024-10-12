@@ -30,6 +30,7 @@ One LeetCode a day keeps the dementia away.
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/46_permutations/solution.py)|no|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/49_group_anagrams/solution.py)|no|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/51_n_queens/solution.py)|no|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/53_maximum_subarray/solution.py)|no|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|Algorithm|2D DP|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/62_unique_paths/solution.py)|no|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/70_climbing_stairs/solution.py)|no|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|Medium|Algorithm|2D DP|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/72_edit_distance/solution.py)|no|
