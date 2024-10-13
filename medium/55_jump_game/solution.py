@@ -5,6 +5,9 @@ class Solution:
     DP bottom up with memoization
 
     from the back the list, we check if we can reach the end from the current index OR there is a step within the jump range that can reach the end.
+
+    time complexity: O(n^2)
+    space complexity: O(n)
     """
     def check_step(self, idx, jumps):
         """
@@ -32,3 +35,21 @@ class Solution:
                 self.dp[i] = False
 
         return self.dp[0]
+    
+class NeetSolution:
+    """
+    Greedy solution
+
+    time complexity: O(n)
+    space complexity: O(1)
+
+    From the back of the list, we move the goal to the current index if we can reach the goal from the current index.
+    """
+    def canJump(self, nums: List[int]) -> bool:
+        goal = len(nums) - 1
+
+        for i in range(len(nums)-1, -1, -1):
+            if i + nums[i] >= goal:
+                goal = i
+
+        return True if goal == 0 else False
