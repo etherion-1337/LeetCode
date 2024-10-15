@@ -4,7 +4,9 @@ class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
         """
         Greedy algo
-
+        time complexity: O(n)
+        space complexity: O(1)
+        
         from starting pos, track total gas currently the car has and reset once this total < 0
         we do not have to go through from the start (cyclic) again because
         1. there is guarantee a solution (after the first check) and it is unique
