@@ -124,6 +124,7 @@ One LeetCode a day keeps the dementia away.
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/778_swim_in_rising_water/solution.py)|no|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/787_cheapest_flights_within_k_stops/solution.py)|no|
+|846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/846_hand_of_straights/solution.py)|no|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/853_car_fleet/solution.py)|no|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/875_koko_eating_bananas/solution.py)|no|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/973_k_closest_points_to_origin/solution.py)|no|
