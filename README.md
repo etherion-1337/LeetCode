@@ -121,6 +121,7 @@ One LeetCode a day keeps the dementia away.
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/739_daily_temperatures/solution.py)|no|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/743_network_delay_time/solution.py)|no|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/746_min_cost_climbing_stairs/solution.py)|no|
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/763_partition_labels/solution.py)|no|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/778_swim_in_rising_water/solution.py)|no|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/787_cheapest_flights_within_k_stops/solution.py)|no|
