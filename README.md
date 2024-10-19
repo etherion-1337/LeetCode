@@ -33,6 +33,7 @@ One LeetCode a day keeps the dementia away.
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/51_n_queens/solution.py)|no|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/53_maximum_subarray/solution.py)|no|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/55_jump_game/solution.py)|no|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|Medium|Algorithm|Interval|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/56_merge_intervals/solution.py)|no|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|Medium|Algorithm|Interval|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/57_insert_interval/solution.py)|no|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|Algorithm|2D DP|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/62_unique_paths/solution.py)|no|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/70_climbing_stairs/solution.py)|no|
