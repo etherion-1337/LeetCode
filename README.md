@@ -91,6 +91,7 @@ One LeetCode a day keeps the dementia away.
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/239_sliding_window_maximum/solution.py)|no|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/242_valid_anagram/solution.py)|no|
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|Easy|Algorithm|Intervals|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/252_meeting_rooms/solution.py)|no|
+|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|Medium|Algorithm|Intervals|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/253_meeting_rooms_II/solution.py)|no|
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/261_graph_valid_tree/solution.py)|no|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/269_alien_dictionary/solution.py)|no|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/271_encode_decode_strings/solution.py)|no|
