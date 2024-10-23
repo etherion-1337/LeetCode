@@ -31,6 +31,7 @@ One LeetCode a day keeps the dementia away.
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/46_permutations/solution.py)|no|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|Medium|Algorithm|Math|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/48_rotate_image/solution.py)|no|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/49_group_anagrams/solution.py)|no|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|Medium|Algorithm|Math|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/50_pow_x_n/solution.py)|no|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/51_n_queens/solution.py)|no|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/53_maximum_subarray/solution.py)|no|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|Medium|Algorithm|Math|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/54_spiral_matrix/solution.py)|no|
