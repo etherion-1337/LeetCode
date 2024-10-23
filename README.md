@@ -78,6 +78,7 @@ One LeetCode a day keeps the dementia away.
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/198_house_robber/solution.py)|no|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/199_binary_tree_right_side_view/solution.py)|no|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/200_number_of_islands/solution.py)|no|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|Easy|Algorithm|Math|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/202_happy_number/solution.py)|no|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/206_reverse_linked_list/solution.py)|no|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/207_course_schedule/solution.py)|no|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/208_implement_trie_prefix_tree/solution.py)|no|
