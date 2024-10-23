@@ -10,6 +10,10 @@ class Solution:
     
 class NeetSolution:
     def plusOne(self, digits: List[int]) -> List[int]:
+        """
+        time complexity: O(n)
+        space complexity: O(1)
+        """
         # reverse the arr for easier calculation
         digits = digits[::-1]
         carry = True
