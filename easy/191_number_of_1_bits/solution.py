@@ -9,6 +9,10 @@ class Solution:
     
 class NeetSolution:
     def hammingWeight(self, n: int) -> int:
+        """
+        time complexity: O(n)
+        space complexity: O(1)
+        """
         ans = 0
         while n:
             # get last digit
