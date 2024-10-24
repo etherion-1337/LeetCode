@@ -79,6 +79,7 @@ One LeetCode a day keeps the dementia away.
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/153_find_minimum_in_rotated_sorted_array/solution.py)|no|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/155_min_stack/solution.py)|no|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/167_two_sum_ii/solution.py)|no|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|Algorithm|Bit|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/191_number_of_1_bits/solution.py)|no|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/198_house_robber/solution.py)|no|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/199_binary_tree_right_side_view/solution.py)|no|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/200_number_of_islands/solution.py)|no|
