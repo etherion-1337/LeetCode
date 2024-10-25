@@ -18,7 +18,7 @@ class NeetSolution:
             res += i - nums[i]
         return res
 
-class Solution:
+class NeetSolution:
     """
     XOR solution
     """

@@ -103,7 +103,7 @@ One LeetCode a day keeps the dementia away.
 |252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|Easy|Algorithm|Intervals|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/252_meeting_rooms/solution.py)|no|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|Medium|Algorithm|Intervals|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/253_meeting_rooms_II/solution.py)|no|
 |261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/261_graph_valid_tree/solution.py)|no|
-|268|[Missing Number](https://leetcode.com/problems/missing-number/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/268_missing_number/solution.py)|no|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|Easy|Algorithm|Bit|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/268_missing_number/solution.py)|no|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/269_alien_dictionary/solution.py)|no|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/271_encode_decode_strings/solution.py)|no|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/286_walls_and_gates/solution.py)|no|
