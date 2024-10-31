@@ -153,6 +153,7 @@ One LeetCode a day keeps the dementia away.
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/846_hand_of_straights/solution.py)|no|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/853_car_fleet/solution.py)|no|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/875_koko_eating_bananas/solution.py)|no|
+|912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|Medium|Algorithm|Arr Hash|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/875_koko_eating_bananas/solution.py)|no|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|Easy|Algorithm|Arr Hash|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/929_unique_email_addresses/solution.py)|no|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/973_k_closest_points_to_origin/solution.py)|no|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/981_time_based_key_value_store/solution.py)|no|
