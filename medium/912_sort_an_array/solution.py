@@ -58,10 +58,12 @@ class Solution:
             # only one of the left and right tmp arr will have leftover
             while j < len(left_tmp_arr):
                 arr[i] = left_tmp_arr[j]
+                # nums[i] = left_tmp_arr[j]
                 j += 1
                 i += 1
             while k < len(right_tmp_arr):
                 arr[i] = right_tmp_arr[k]
+                # nums[i] = right_tmp_arr[k]
                 k += 1
                 i += 1
 
