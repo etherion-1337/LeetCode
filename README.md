@@ -49,7 +49,7 @@ One LeetCode a day keeps the dementia away.
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|Medium|Algorithm|2D DP|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/72_edit_distance/solution.py)|no|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Medium|Algorithm|Math|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/73_set_matrix_zeroes/solution.py)|no|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/74_search_a_2d_matrix/solution.py)|no|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|Algorithm|Arr Hash|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/74_search_a_2d_matrix/solution.py)|no|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|Algorithm|Arr Hash|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/75_sort_colors/solution.py)|no|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/76_minimum_window_substring/solution.py)|no|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/78_subsets/solution.py)|no|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/79_word_search/solution.py)|no|
