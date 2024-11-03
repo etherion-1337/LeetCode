@@ -35,7 +35,7 @@ class Solution:
     
 class NeetSolution:
     def leastBricks(self, wall: List[List[int]]) -> int:
-        countGap = { 0 : 0 }    # { Position : Gap count }
+        countGap = { 0 : 0 }    # { Position : Gap count }, also for edge case [[1], [1], [1]] since dict can be empty
 
         for r in wall:
             total = 0   # Position
