@@ -138,6 +138,7 @@ One LeetCode a day keeps the dementia away.
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|Medium|Algorithm|String|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/535_encode_and_decode_tinyURL/solution.py)|no|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/543_diameter_of_binary_tree/solution.py)|no|
 |554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|Medium|Algorithm|Arr Hash|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/554_brick_wall/solution.py)|no|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Medium|Algorithm|Arr Hash|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/560_subarray_sum_equals_k/solution.py)|no|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/567_permutation_in_string/solution.py)|no|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/572_subtree_of_another_tree/solution.py)|no|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/621_task_scheduler/solution.py)|no|
