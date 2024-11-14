@@ -1,7 +1,7 @@
 from typing import List
 import math
 
-class Solution:
+class NeetSolution:
     def minimizedMaximum(self, n: int, quantities: List[int]) -> int:
         """
         binary search solution
