@@ -153,6 +153,7 @@ One LeetCode a day keeps the dementia away.
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/746_min_cost_climbing_stairs/solution.py)|no|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/763_partition_labels/solution.py)|no|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
+|773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|Hard|Algorithm|Matrix|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/773_sliding_puzzle/solution.py)|no|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/778_swim_in_rising_water/solution.py)|no|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/787_cheapest_flights_within_k_stops/solution.py)|no|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|Easy|Algorithm|String|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/796_rotate_string/solution.py)|no|
