@@ -12,6 +12,10 @@ class Solution:
         
         time: O(n)
         space: O(n)
+
+        Euler path exists iff:
+        1. there is a node with +1 and anther node with -1 (into and out of the node)
+        2. all nodes have equal in and out degree (cycle)
         """
         adj_list = defaultdict(list)
         count = defaultdict(int)
