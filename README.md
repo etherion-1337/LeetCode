@@ -152,6 +152,7 @@ One LeetCode a day keeps the dementia away.
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/743_network_delay_time/solution.py)|no|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/746_min_cost_climbing_stairs/solution.py)|no|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/763_partition_labels/solution.py)|no|
+|769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/769_max_chunks_to_make_sorted/solution.py)|no|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/771_jewels_and_stones/solution_slow.py)|no|
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|Hard|Algorithm|Matrix|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/773_sliding_puzzle/solution.py)|no|
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/778_swim_in_rising_water/solution.py)|no|
