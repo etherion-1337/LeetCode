@@ -23,3 +23,19 @@ class Solution:
             left.add(s[mid])
 
         return len(ans)
+    
+
+class NeetSolution:
+    def countPalindromicSubsequence(self, s: str) -> int:
+        ans = set() # (mid_c, outer_c)
+        left = set()
+        right = collections.Counter(s)
+
+        for m in s:
+            right[m] -= 1
+            for c in left:
+                if right[c] > 0:
+                    ans.add((m, c))
+            left.add(m)
+        
+        return len(ans)
