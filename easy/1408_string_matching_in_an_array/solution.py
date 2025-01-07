@@ -13,5 +13,6 @@ class Solution:
             for w_2 in words:
                 if w_1 in w_2 and w_1 != w_2:
                     ans.add(w_1)
+                    break
 
         return list(ans)
