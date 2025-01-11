@@ -151,6 +151,7 @@ One LeetCode a day keeps the dementia away.
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/695_max_area_of_island/solution.py)|no|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/703_kth_largest_element_in_a_stream/solution.py)|no|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/704_binary_search/solution.py)|no|
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|Easy|Algorithm|Arr Hash|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/705_design_hashSet/solution.py)|no|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/739_daily_temperatures/solution.py)|no|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/743_network_delay_time/solution.py)|no|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/746_min_cost_climbing_stairs/solution.py)|no|
