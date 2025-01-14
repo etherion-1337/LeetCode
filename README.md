@@ -29,6 +29,7 @@ One LeetCode a day keeps the dementia away.
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/36_valid_sudoku/solution.py)|no|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/39_combination_sum/solution.py)|no|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/40_combination_sum_II/solution.py)|no|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Hard|Algorithm|Arr Hash|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/41_first_missingPositive/solution.py)|no|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/42_trapping_rain_water/solution.py)|no|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|Algorithm|Math|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/43_multiply_strings/solution.py)|no|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Medium|Algorithm|Greedy|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/45_jump_game_II/solution.py)|no|
