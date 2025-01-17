@@ -129,6 +129,7 @@ One LeetCode a day keeps the dementia away.
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|Hard|Algorithm|2D DP|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/329_longest_increasing_path_in_a_matrix/solution.py)|no|
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/332_reconstruct_itinerary/solution.py)|no|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Easy|Algorithm|Bit|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/338_counting_bits/solution.py)|no|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|Algorithm|Two Pointers|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/344_reverse_string/solution.py)|no|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/347_top_k_frequent_elements/solution.py)|no|
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/355_design_twitter/solution.py)|no|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Medium|Algorithm|Bit|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/371_sum_of_two_integers/solution.py)|no|
