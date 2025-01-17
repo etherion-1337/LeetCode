@@ -55,6 +55,7 @@ One LeetCode a day keeps the dementia away.
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/78_subsets/solution.py)|no|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/79_word_search/solution.py)|no|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Hard|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/hard/84_largest_rectangle_in_histogram/solution.py)|no|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Easy|Algorithm|Two Pointers|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/88_merge_sorted_array/solution.py)|no|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/90_subsets_II/solution.py)|no|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/91_decode_ways/solution.py)|no|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|Medium|Algorithm|2D DP|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/97_interleaving_string/solution.py)|no|
