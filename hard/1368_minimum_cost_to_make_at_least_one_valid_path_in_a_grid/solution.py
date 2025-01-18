@@ -3,7 +3,7 @@ from typing import List
 
 class Solution:
     """
-    bfs
+    0/1 bfs
     """
     def minCost(self, grid: List[List[int]]) -> int:
         directions = {
