@@ -2,6 +2,9 @@ from collections import deque
 from typing import List
 
 class Solution:
+    """
+    bfs
+    """
     def minCost(self, grid: List[List[int]]) -> int:
         directions = {
             1 : [0, 1],
