@@ -1,0 +1,44 @@
+from typing import List
+from collections import defaultdict
+
+class Solution:
+    def firstCompleteIndex(self, arr: List[int], mat: List[List[int]]) -> int:
+        pos_map = {}
+        ROWS, COLS = len(mat), len(mat[0])
+        for r in range(ROWS):
+            for c in range(COLS):
+                pos_map[mat[r][c]] = (r, c)
+
+        r_count = defaultdict(int)
+        c_count = defaultdict(int)
+
+        for i in range(len(arr)):
+            r, c = pos_map[arr[i]]
+            r_count[r] += 1
+            c_count[c] += 1
+            if r_count[r] == COLS or c_count[c] == ROWS:
+                return i
+
+
+class NeetSolution:
+    """
+    time complexity: O(m*n)
+    space complexity: O(m*n)
+    """
+    def firstCompleteIndex(self, arr: List[int], mat: List[List[int]]) -> int:
+        ROWS, COLS = len(mat), len(mat[0])
+
+        mat_to_position = {}
+        for r in range(ROWS):
+            for c in range(COLS):
+                mat_to_position[mat[r][c]] = (r, c)
+        row_cnt = [0] * ROWS
+        col_cnt = [0] * COLS
+
+        for i in range(len(arr)):
+            r, c = mat_to_position[arr[i]]
+            row_cnt[r] += 1
+            col_cnt[c] += 1
+
+            if col_cnt[c] == ROWS or row_cnt[r] == COLS:
+                return i
