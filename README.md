@@ -18,6 +18,7 @@ One LeetCode a day keeps the dementia away.
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|Algorithm|Arr Hash|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/14_longest_common_prefix/solution.py)|no|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/15_three_sum/solution.py)|no|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/17_letter_combinations_of_a_phone_number/solution.py)|no|
+|18|[4Sum](https://leetcode.com/problems/4sum/)|Medium|Algorithm|Array|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/18_4Sum/solution.py)|no|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/19_remove_nth_node_from_end_of_list/solution.py)|no|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/20_valid_parentheses/solution.py)|no|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/21_merge_two_sorted_lists/solution.py)|no|
