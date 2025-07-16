@@ -49,6 +49,7 @@ One LeetCode a day keeps the dementia away.
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|Algorithm|2D DP|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/62_unique_paths/solution.py)|no|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|Easy|Algorithm|Math|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/66_plus_one/solution.py)|no|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/easy/70_climbing_stairs/solution.py)|no|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|Medium|Algorithm|stack|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/71_simplify_path/solution.py)|no|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|Medium|Algorithm|2D DP|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/72_edit_distance/solution.py)|no|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Medium|Algorithm|Math|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/73_set_matrix_zeroes/solution.py)|no|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|Algorithm|noNote|[Python](https://github.com/etherion-1337/LeetCode/blob/master/medium/74_search_a_2d_matrix/solution.py)|no|
